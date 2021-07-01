@@ -1,5 +1,7 @@
 # eProfessor
-It's a digital human professor embeded on a web-page.
+Linda - digital human - professor.
 index.html is the main page.
-Name:OUARAB OUSSAMA
-Email: ouarab.oussama@gmail.com
+
+Name : OUARAB OUSSAMA
+ 
+Email : ouarab.oussama@gmail.com
